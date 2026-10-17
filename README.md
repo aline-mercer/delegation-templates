@@ -64,7 +64,7 @@ These are general starting points. For legal, medical, financial or safety-criti
 
 ## About
 
-Made by Tutuo, Inc. These skills and templates were drafted by AI and editorially reviewed by AI. They have had no independent human review. Corrections and suggestions are welcome via issues.
+Made by Tutuo, Inc. Corrections and suggestions are welcome via issues.
 
 ---
 Also works with [Octuo](https://www.tutuo.ai/en/octuo/?utm_source=skills&utm_medium=repo&utm_campaign=launch-v3), a personal assistant for macOS.
